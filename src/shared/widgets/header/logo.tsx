@@ -4,7 +4,7 @@ const Logo = () => {
     return (
         <div className='relative flex items-center'>
             <svg 
-                viewBox="0 0 440 110" 
+                
                 xmlns="http://www.w3.org/2000/svg" 
                 preserveAspectRatio="xMinYMin meet" 
                 fill="#000000">
@@ -21,7 +21,7 @@ const Logo = () => {
             </svg>
 
             <h5 className="absolute right-[-50px] top-[10px] pt-1 font-medium text-2xl">
-                Verity
+                HTML
             </h5>
         </div>
     )
