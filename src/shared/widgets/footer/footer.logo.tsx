@@ -1,9 +1,8 @@
 import React from 'react'
 
-const Logo = () => {
+const FooterLogo = () => {
     return (
-        <div className='relative flex items-center'>
-            <svg 
+        <svg 
                 
                 xmlns="http://www.w3.org/2000/svg" 
                 preserveAspectRatio="xMinYMin meet" 
@@ -19,12 +18,7 @@ const Logo = () => {
                         <path d="M127.89 220.573h39.327l-3.708 41.42-35.62 9.614v33.226l65.473-18.145.48-5.396 7.506-84.08.779-8.576H127.89v31.937zM127.89 155.854v.078h77.143l.64-7.178 1.456-16.191.763-8.568H127.89v31.86z" fill="#FFF"></path>
                     </g>
             </svg>
-
-            <h5 className="absolute right-[-50px] top-[10px] pt-1 font-medium text-2xl">
-                HTML
-            </h5>
-        </div>
     )
 }
 
-export default Logo
+export default FooterLogo

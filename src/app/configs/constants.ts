@@ -18,18 +18,20 @@ export const navItems: NavItems[] = [
 
 export const partners: PartnersTypes[] = [
     {
-        url: "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,onerror=redirect,format=auto,width=640,quality=75/www/homepage/MobileHero.png"
+        url: "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,onerror=redirect,format=auto,width=640,quality=75/www/company-logos-cyber-ink-bg/CompanyLogosCyberInkBG/clickhole.svg"
     },
     {
-        url: "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,onerror=redirect,format=auto,width=640,quality=75/www/homepage/MobileHero.png"
+        url: "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,onerror=redirect,format=auto,width=1080,quality=75/www/company-logos-cyber-ink-bg/CompanyLogosCyberInkBG/clickhole.svg"
     },
     {
-        url: "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,onerror=redirect,format=auto,width=640,quality=75/www/homepage/MobileHero.png"
+        url: "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,onerror=redirect,format=auto,width=1080,quality=75/www/company-logos-cyber-ink-bg/CompanyLogosCyberInkBG/clickhole.svg"
     },
     {
-        url: "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,onerror=redirect,format=auto,width=640,quality=75/www/homepage/MobileHero.png"
+        url: "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,onerror=redirect,format=auto,width=640,quality=75/www/company-logos-cyber-ink-bg/CompanyLogosCyberInkBG/clickhole.svg"
     }
 ]
+
+/* <img alt="Clickhole Logo" loading="eager" width="500" height="500" decoding="async" data-nimg="1" class="max-w-[150px] h-[75px]" style="color:transparent" srcset=" 1x,  2x" src=""> */
 
 export const freePlan: PlanType[] = [
     {
